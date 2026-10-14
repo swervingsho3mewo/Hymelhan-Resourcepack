@@ -1,0 +1,48 @@
+{
+  "textures": {
+    "5": "hymelhan:blueprint/lights_gallant/legs",
+    "particle": "minecraft:item/pufferfish"
+  },
+  "display": {
+    "head": {
+      "rotation": [0, 180, 0]
+    }
+  },
+  "elements": [
+    {
+      "from": [6.5, 0, 6],
+      "to": [9.5, 8, 10],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [6.5, 1, 8]
+      },
+      "faces": {
+        "north": {
+          "uv": [5, 9, 6.5, 13],
+          "texture": "#5"
+        },
+        "east": {
+          "uv": [8, 8, 10, 12],
+          "texture": "#5"
+        },
+        "south": {
+          "uv": [6.5, 9, 8, 13],
+          "texture": "#5"
+        },
+        "west": {
+          "uv": [0, 9, 2, 13],
+          "texture": "#5"
+        },
+        "up": {
+          "uv": [13, 10, 11.5, 8],
+          "texture": "#5"
+        },
+        "down": {
+          "uv": [13, 10, 11.5, 12],
+          "texture": "#5"
+        }
+      }
+    }
+  ]
+}
