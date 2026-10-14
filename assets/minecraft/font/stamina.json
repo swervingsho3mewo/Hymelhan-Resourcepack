@@ -1,0 +1,14 @@
+
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/stamina.png",
+            "ascent": -296,
+            "height": 8,
+            "chars": [
+                "\u00a1\u2030"
+            ]
+        }
+    ]
+}
